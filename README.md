@@ -8,6 +8,8 @@ Love JavaScript and Coffee
 
 Recently fallen in love with TypeScript
 
+Learning Fresh
+
 ## Contribution Graph
 [![TheWisePigeon's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=TheWisePigeon&theme=github)](https://github.com/TheWisePigeon)
 <h2><i>⚙️ GitHub Analytics</i></h2>
