@@ -4,11 +4,12 @@ I'm Joseph, a.k.a. **TheWisePigeon**
 
 I'm 20 
 
-Love JavaScript and Coffee
+JavaScript/TypeScript addict
 
-Recently fallen in love with TypeScript
+Certified PHP hater
 
-Learning Fresh
+Fallen in love with Rust
+
 
 ## Contribution Graph
 [![TheWisePigeon's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=TheWisePigeon&theme=github)](https://github.com/TheWisePigeon)
