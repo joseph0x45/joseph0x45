@@ -2,13 +2,13 @@
 
 I'm Joseph, a.k.a. **TheWisePigeon**
 
-I'm 20 
+20 yo junior backend developer
 
-JavaScript/TypeScript addict
+Addicted to TypeScript and coffee
 
 Certified PHP hater
 
-Fallen in love with Rust
+In love with Rust
 
 
 ## Contribution Graph
