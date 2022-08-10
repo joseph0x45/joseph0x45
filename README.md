@@ -2,7 +2,9 @@
 
 I'm Joseph, a.k.a. **TheWisePigeon**
 
-20 yo junior backend developer
+20 yo 
+
+FullStack Web Developer
 
 
 
