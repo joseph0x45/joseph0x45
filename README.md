@@ -26,7 +26,7 @@ FullStack Web Developer
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/thewisepigeonxd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thewisepigeonxd" height="30" width="40" /></a>
+<a href="https://twitter.com/pigeondev0_0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thewisepigeonxd" height="30" width="40" /></a>
 <a href="https://discord.gg/thepisewigeon#2675" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="thepisewigeon#2675" height="30" width="40" /></a>
 </p>
 
