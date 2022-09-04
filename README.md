@@ -5,7 +5,7 @@ I'm Joseph
 
 FullStack Web Developer | AI & Machine learning enthusiast | Technical writer
 
-(My portfolio)[https://josephdogbevi.me]
+[My portfolio](https://josephdogbevi.me)
 
 
 
