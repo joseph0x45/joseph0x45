@@ -1,10 +1,11 @@
-### Hi there 👋
+Hello there :)
+I'm Joseph
 
-I'm Joseph, a.k.a. **TheWisePigeon**
+20 years old
 
-20 yo 
+FullStack Web Developer | AI & Machine learning enthusiast | Technical writer
 
-FullStack Web Developer
+(My portfolio)[https://josephdogbevi.me]
 
 
 
