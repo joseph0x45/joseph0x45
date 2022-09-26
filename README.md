@@ -7,7 +7,7 @@ FullStack Web Developer | AI & Machine learning enthusiast | Technical writer
 
 [My portfolio](https://josephdogbevi.me)
 
-
+[My blog](https://thepigeondev.hashnode.dev)
 
 ## Contribution Graph
 [![TheWisePigeon's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=TheWisePigeon&theme=github)](https://github.com/TheWisePigeon)
