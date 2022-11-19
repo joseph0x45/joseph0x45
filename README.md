@@ -3,7 +3,7 @@ I'm Joseph
 
 20 years old
 
-Web Developer | AI & Machine learning enthusiast | Technical writer
+Software Developer | AI & Machine learning enthusiast | Technical writer
 
 [My portfolio](https://josephdogbevi.me)
 
