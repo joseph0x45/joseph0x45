@@ -6,7 +6,9 @@ Junior Software Developer | AI & Machine learning enthusiast | Technical writer
 [My portfolio](https://josephdogbevi.me)
 
 ## Contribution Graph
-[![TheWisePigeon's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=TheWisePigeon&theme=github)](https://github.com/TheWisePigeon)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=TheWisePigeon&theme=react-dark)]()
+
 <h2><i>⚙️ GitHub Analytics</i></h2>
 <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TheWisePigeon&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/><br/>
