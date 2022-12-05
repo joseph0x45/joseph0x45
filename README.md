@@ -10,8 +10,6 @@ Junior Software Developer | AI & Machine learning enthusiast | Technical writer
 <h2><i>⚙️ GitHub Analytics</i></h2>
 <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TheWisePigeon&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/><br/>
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=TheWisePigeon&layout=compact&langs_count=8&theme=algolia" />
-  
 <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=TheWisePigeon&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" />
 
 
