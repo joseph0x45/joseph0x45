@@ -1,5 +1,5 @@
 Hello there :)
-I'm Joseph, and I identify as a pigeon🐥
+I'm Joseph aka TheWisePigeon
 
 Junior Software Developer | AI & Machine learning enthusiast | Technical writer
 
