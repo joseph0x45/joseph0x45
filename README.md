@@ -1,8 +1,8 @@
 Hello there I'm Joseph aka TheWisePigeon
 
-I'm a real pigeon btw
-
 Junior Software Developer 
+
+I'm a real pigeon btw :)
 
 [My portfolio](https://josephdogbevi.me)
 
