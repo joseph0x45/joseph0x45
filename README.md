@@ -1,7 +1,8 @@
-Hello there :)
-I'm Joseph aka TheWisePigeon
+Hello there I'm Joseph aka TheWisePigeon
 
-Junior Software Developer | AI & Machine learning enthusiast | Technical writer
+I'm a real pigeon btw
+
+Junior Software Developer 
 
 [My portfolio](https://josephdogbevi.me)
 
