@@ -1,4 +1,4 @@
-Hi 👋 My name is Joseph aka TheWisePigeon
+coocoo 🐥 I'm Joseph aka TheWisePigeon
 =========================================
 
 Junior Software Developer
