@@ -1,10 +1,20 @@
-Hello there I'm Joseph aka TheWisePigeon
+Hi 👋 My name is Joseph aka TheWisePigeon
+=========================================
 
-Junior Software Developer 
+Junior Software Developer
+-------------------------
 
-I'm a real pigeon btw :)
+I enjoy building things on the web and beyond. Focused on crafting performant and reliable services in order to deliver the best experience possible to end users. I read, write, work on side projects or play video games in my spare time.
 
-[My portfolio](https://josephdogbevi.me)
+* 🌍  I'm based in Lome, TOGO
+* 🖥️  See my portfolio at [My portfolio](http://josephdogbevi.me)
+* ✉️  You can contact me at [zozozozeph@gmail.com](mailto:zozozozeph@gmail.com)
+* 🚀  I'm currently working on [YOOT](http://yoot.site)
+* 🧠  I'm learning Rust 🦀
+* ⚡  I'm a real pigeon btw, with wings and everything :)
+
+<a href="https://www.github.com/TheWisePigeon" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/TheWisePigeon?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ## Contribution Graph
 
@@ -22,10 +32,7 @@ I'm a real pigeon btw :)
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thewisepigeon" alt="thewisepigeon" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/pigeondev0_0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thewisepigeonxd" height="30" width="40" /></a>
-<a href="https://discord.gg/thepisewigeon#2675" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="thepisewigeon#2675" height="30" width="40" /></a>
-</p>
+<p align="left"> <a href="https://www.github.com/TheWisePigeon" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/joseph-dogbevi-aka-thewisepigeon" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/pigeondev0_0" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 
 
