@@ -10,9 +10,9 @@ I enjoy building things on the web and beyond. Focused on crafting performant an
 * 🖥️  See my portfolio at [My portfolio](http://josephdogbevi.me)
 * ✉️  You can contact me at [zozozozeph@gmail.com](mailto:zozozozeph@gmail.com)
 * 🚀  I'm currently working on [YOOT](http://yoot.site)
+* 📝  My blog [PigeonScript](https://pigeonscript.co)
 * 🧠  I'm learning Rust 🦀
 * ⚡  I'm a real pigeon btw, with wings and everything :)
-* 📝  My blog [PigeonScript](https://pigeonscript.co)
 
 <a href="https://www.github.com/TheWisePigeon" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/TheWisePigeon?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
