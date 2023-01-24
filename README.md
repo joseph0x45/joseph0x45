@@ -1,9 +1,7 @@
 coocoo 🐥 I'm Joseph aka TheWisePigeon
 =========================================
 
-Junior Software Developer
-
-TypeScript | Rust | Svelte
+Junior Software Developer (TypeScript | Rust | Svelte)
 -------------------------
 
 I enjoy building things on the web and beyond. Focused on crafting performant and reliable services in order to deliver the best experience possible to end users. I read, write, work on side projects or play video games in my spare time.
