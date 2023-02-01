@@ -6,13 +6,13 @@ Junior Software Developer (TypeScript | Rust | Svelte)
 
 I enjoy building things on the web and beyond. Focused on crafting performant and reliable services in order to deliver the best experience possible to end users. I read, write, work on side projects or play video games in my spare time.
 
-* 🌍  I'm based in Lome, TOGO
-* 🖥️  See my portfolio [here](http://josephdogbevi.me)
-* ✉️  You can contact me at [this address](mailto:zozozozeph@gmail.com)
-* 🚀  I'm currently working on [YOOT](http://yoot.site)
-* 📝  My blog [PigeonScript](https://pigeonscript.co)
+[Personal website](http://josephdogbevi.me)
 
-⚡  I'm a real pigeon btw, with wings and everything :)
+[Contact](mailto:zozozozeph@gmail.com)
+
+[Blog](https://pigeonscript.co)
+
+ I'm a real pigeon btw, with wings and everything :)
 
 <a href="https://www.github.com/TheWisePigeon" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/TheWisePigeon?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
