@@ -16,7 +16,7 @@ I enjoy building things on the web and beyond. Focused on crafting performant an
 
  I'm a real pigeon btw, with wings and everything :)
  
- ![](https://media.giphy.com/media/hmzZkvOJPLQti/giphy.gif)
+ ![](https://media.giphy.com/media/GyKCVW91R83Ek/giphy.gif)
 
 ## Contribution Graph
 
