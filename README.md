@@ -14,15 +14,7 @@ I enjoy building things on the web and beyond. Focused on crafting performant an
 
 [Blog](https://pigeonscript.co)
 
- I'm a real pigeon btw, with wings and everything :)
- 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/TheWisePigeon/count.svg" />
- 
-  ![](https://media.giphy.com/media/GyKCVW91R83Ek/giphy.gif)
-
-</p>
+I'm a real pigeon btw, with wings and everything :)
 
 ## Contribution Graph
 
