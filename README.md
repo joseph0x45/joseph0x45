@@ -6,7 +6,7 @@ Hello there, I'm TheWisePigeon aka ThePiseWigeon
 Junior Software Developer (TypeScript | Rust | Svelte)
 -------------------------
 
-I enjoy building things on the web and beyond. Focused on crafting performant and reliable services in order to deliver the best experience possible to end users. I read, write, work on side projects or play video games in my spare time.
+I enjoy building things on the web and beyond. Focused on becoming the best developer I can possibly be. I read, write, work on side projects or play video games in my spare time.
 
 [Personal website](http://josephdogbevi.me)
 
