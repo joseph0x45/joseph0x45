@@ -8,8 +8,6 @@ Junior Software Developer (TypeScript | Rust | Svelte)
 
 I enjoy building things on the web and beyond. Focused on becoming the best developer I can possibly be. I read, write, work on side projects or play video games in my spare time.
 
-[Personal website](http://josephdogbevi.me)
-
 [Contact](mailto:zozozozeph@gmail.com)
 
 [Blog](https://pigeonscript.co)
