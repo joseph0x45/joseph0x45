@@ -3,16 +3,16 @@
 Hello there, I'm TheWisePigeon aka ThePiseWigeon
 =========================================
 
-Junior Software Developer (TypeScript | Rust | Svelte)
+Software Developer 
 -------------------------
 
 I enjoy building things on the web and beyond. Focused on becoming the best developer I can possibly be. I read, write, work on side projects or play video games in my spare time.
 
 [Contact](mailto:zozozozeph@gmail.com)
 
-[Blog](https://pigeonscript.co)
+Check out my company [REEX Labs](https://reexlabs.com)
 
-I'm a real pigeon btw, with wings and everything :)
+I'm a real pigeon btw, like a real bird, with wings and everything :)
 
 ## Contribution Graph
 
