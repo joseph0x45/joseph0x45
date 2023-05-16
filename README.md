@@ -12,8 +12,6 @@ I enjoy building things on the web and beyond. Focused on becoming the best deve
 
 [Contact](mailto:zozozozeph@gmail.com)
 
-Check out my company [REEX Labs](https://reexlabs.com)
-
 I'm a real pigeon btw, like a real bird, with wings and everything :)
 
 ## Contribution Graph
