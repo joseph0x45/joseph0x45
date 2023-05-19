@@ -8,11 +8,6 @@ Software Developer in love with Rust, TypeScript and Sveltekit
 
 I enjoy building things on the web and beyond. And I use Arch btw
 
-[Website](https://josephdogbevi.me)
-
-[Contact](mailto:zozozozeph@gmail.com)
-
-
 ## Contribution Graph
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=TheWisePigeon&theme=react-dark)]()
