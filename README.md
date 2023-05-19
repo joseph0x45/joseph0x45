@@ -6,13 +6,12 @@ Hello there, I'm TheWisePigeon aka ThePiseWigeon
 Software Developer in love with Rust, TypeScript and Sveltekit
 -------------------------
 
-I enjoy building things on the web and beyond. Focused on becoming the best developer I can possibly be. I read, write, work on side projects or play video games in my spare time.
+I enjoy building things on the web and beyond. And I use Arch btw
 
 [Website](https://josephdogbevi.me)
 
 [Contact](mailto:zozozozeph@gmail.com)
 
-I'm a real pigeon btw, like a real bird, with wings and everything :)
 
 ## Contribution Graph
 
