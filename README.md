@@ -1,12 +1,12 @@
 ![](https://media.giphy.com/media/hmzZkvOJPLQti/giphy.gif)
 
 Hello there, I'm TheWisePigeon
-=========================================
 
-Software Developer in love with Rust, TypeScript and Sveltekit
--------------------------
+I'm a Software Developer in love with Rust, TypeScript and Sveltekit
 
-I enjoy building things on the web and beyond. And I use Arch btw
+I enjoy building things on the web and beyond. And I use Arch btw.
+
+Fun Fact: You get 69 years of good luck by following me on github. How cool is that?
 
 ## Contribution Graph
 
