@@ -1,6 +1,6 @@
 ![](https://media.giphy.com/media/hmzZkvOJPLQti/giphy.gif)
 
-Hello there, I'm TheWisePigeon aka ThePiseWigeon
+Hello there, I'm TheWisePigeon
 =========================================
 
 Software Developer in love with Rust, TypeScript and Sveltekit
