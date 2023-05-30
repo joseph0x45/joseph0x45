@@ -8,10 +8,6 @@ I enjoy building things on the web and beyond. And I use Arch btw.
 
 Fun Fact: You get 69 years of good luck by following me on github. How cool is that?
 
-## Contribution Graph
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=TheWisePigeon&theme=react-dark)]()
-
 <h2><i>⚙️ GitHub Analytics</i></h2>
 <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TheWisePigeon&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/><br/>
