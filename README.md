@@ -2,4 +2,4 @@
 
 Hello there, I'm Joseph.
 
-I build things on the web and beyond.
+I like birds, heavy metal and programming :)
