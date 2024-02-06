@@ -2,4 +2,4 @@
 
 Hello there, I'm Joseph.
 
-I like birds, heavy metal and programming :)
+Life is made of heavy metal and code :)
