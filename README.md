@@ -2,4 +2,6 @@
 
 Hello there, I'm Joseph.
 
-Life is made of heavy metal and code :)
+Student and software developer
+
+Life is better with heavy metal and code :)
