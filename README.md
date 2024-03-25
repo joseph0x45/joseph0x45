@@ -2,6 +2,8 @@
 
 Hello there, I'm Joseph.
 
-Student, software developer and all time learner
+CS Student
 
-Life is better with heavy metal and code :)
+Maker of goofy software
+
+Metalhead
