@@ -4,6 +4,6 @@ Hello there, I'm Joseph.
 
 CS Student
 
-Maker of goofy software
+Software Developer
 
 Metalhead
